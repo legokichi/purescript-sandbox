@@ -1,0 +1,34 @@
+{
+  "name": "purescript_sandbox",
+  "version": "1.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-console": "^0.1.0",
+    "purescript-tuples": "~0.4.0",
+    "purescript-maybe": "~0.3.5",
+    "purescript-arrays": "~0.4.4",
+    "purescript-lists": "~0.7.7",
+    "purescript-sequences": "~0.4.2",
+    "purescript-eff": "~0.1.2",
+    "purescript-aff": "~0.13.1",
+    "purescript-free": "~0.9.1",
+    "purescript-lens": "~0.9.1",
+    "purescript-monoid": "~0.3.2",
+    "purescript-arrows": "~0.6.2",
+    "purescript-control": "~0.3.2",
+    "purescript-either": "~0.2.3",
+    "purescript-foreign": "~0.7.2",
+    "purescript-strings": "~0.7.1",
+    "purescript-transformers": "~0.8.4",
+    "purescript-foldable-traversable": "~0.4.2",
+    "purescript-halogen": "~0.5.9"
+  }
+}

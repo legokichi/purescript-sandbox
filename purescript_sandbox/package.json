@@ -1,0 +1,26 @@
+{
+  "name": "purescript_sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legokichi/purescript_sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legokichi/purescript_sandbox/issues"
+  },
+  "homepage": "https://github.com/legokichi/purescript_sandbox#readme",
+  "dependencies": {
+    "virtual-dom": "^2.1.1"
+  }
+}
